@@ -28,23 +28,12 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
-  props: {
-    msg: String
-  }
+  name: 'Filters'
 }
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-  .block {
-    background: #FFFFFF;
-    border: 1px solid #EFF0F2;
-    box-sizing: border-box;
-    border-radius: 4px;
-    height: auto;
-    padding: 1rem 1.5rem;
-  }
   .block > div {
     font-size: 20px;
     color: #3E4956;
